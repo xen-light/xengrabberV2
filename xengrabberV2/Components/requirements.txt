@@ -1,0 +1,9 @@
+tinyaes
+pyinstaller<6
+pyaesm
+dpapi==0.1
+pillow
+urllib3
+requests
+robloxpy
+browser_cookie3
