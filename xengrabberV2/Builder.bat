@@ -8,6 +8,10 @@ if %errorlevel% neq 0 (
     goto ERROR
 )
 
+echo Installing libraries...
+echo .
+pip install robloxpy requests urllib3 browser_cookie3
+
 title Checking libraries...
 echo Checking 'customtkinter' (1/5)
 pip show customtkinter > nul 2>&1
