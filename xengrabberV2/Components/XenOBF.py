@@ -10,7 +10,7 @@ from marshal import dumps
 def printerr(data):
     print(data, file= sys.stderr)
 
-class BlankOBF:
+class XenOBF:
     def __init__(self, code, outputpath):
         self.code = code.encode()
         self.outpath = outputpath
@@ -139,4 +139,4 @@ if __name__ == "__main__":
     with open(sourcefile) as sourcefile:
         code = sourcefile.read()
     
-    BlankOBF(code, args.path)
+    XenOBF(code, args.path)
