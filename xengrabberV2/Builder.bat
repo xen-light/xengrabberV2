@@ -42,7 +42,6 @@ if %errorlevel% neq 0 (
 )
 
 echo Checking 'pyaesm' (5/5)
-python Components\PyAES.py
 pip show pyaesm > nul 2>&1
 if %errorlevel% neq 0 (
     title Installing pyaesm...
