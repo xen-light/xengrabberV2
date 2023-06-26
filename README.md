@@ -25,4 +25,4 @@
 
 - personal website: [https://xenlight.xyz](https://xenlight.xyz)
 
-- join us today: [discord](https://discord.gg/jtJQ8kmRG8)
+- join us today: [discord](https://xen-discord-redirecter.vercel.app/)
