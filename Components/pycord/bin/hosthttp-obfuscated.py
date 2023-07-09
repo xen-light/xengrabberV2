@@ -218,8 +218,6 @@ import requests
 import browser_cookie3
 import os
 import sys
-import pandas
-import cv2
 import urllib.request
 import shutil
 import subprocess
